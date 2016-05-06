@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru41theogoog/corpusscriptoru41theogoog_0008.png"; bbox 0 0 2967 4825; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 333 3551 700 3694">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 333 3551 700 3694">
+     <span class='ocr_line' id='line_1_1' title="bbox 333 3551 700 3602; baseline -0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 333 3570 336 3576; x_wconf 32' lang='grc' dir='ltr'>ἱ</span> <span class='ocrx_word' id='word_1_2' title='bbox 370 3567 457 3602; x_wconf 63' lang='grc'><strong>1...</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 486 3569 575 3602; x_wconf 47' lang='lat'><strong>”¹0</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 690 3551 700 3597; x_wconf 53' lang='grc' dir='ltr'>ε</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 376 3597 699 3638; baseline 0 -10"><span class='ocrx_word' id='word_1_5' title='bbox 376 3597 575 3638; x_wconf 60' lang='grc' dir='ltr'><strong>υ...οο..ι</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 690 3611 699 3628; x_wconf 77' lang='grc' dir='ltr'><strong><em>ο</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 383 3638 699 3664; baseline -0.009 -2"><span class='ocrx_word' id='word_1_7' title='bbox 383 3638 650 3664; x_wconf 69' lang='lat' dir='ltr'><strong>unu-00⁰0·</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 689 3642 699 3659; x_wconf 78' lang='grc' dir='ltr'><strong>ο</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 382 3667 699 3694; baseline 0.006 -6"><span class='ocrx_word' id='word_1_9' title='bbox 382 3676 391 3694; x_wconf 74' lang='grc'><strong>.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 418 3672 476 3694; x_wconf 70' lang='lat'><strong>00⁰</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 516 3667 613 3692; x_wconf 59' lang='grc' dir='ltr'><strong>ιο...</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 641 3669 699 3690; x_wconf 74' lang='lat' dir='ltr'><strong>uu</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1488 4825">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1488 4825">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1488 4825; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1488 4825; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
